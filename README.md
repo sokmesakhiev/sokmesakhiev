@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sokmesakhiev
 - 👀 I’m interested in Ruby and Web3.0 development
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Blockchain project
+- 💞️ I’m looking to collaborate on Blockchain project and Rails app
 - 📫 ksokmesa@gmail.com
 
 <!---
