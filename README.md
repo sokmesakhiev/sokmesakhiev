@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Blockchain project and Rails app
 - 📫 ksokmesa@gmail.com
-- 🥇 Currently active on Gitlab 🥲
+- 🥇 Currently active on self host Gitlab 🥲
 
 <!---
 sokmesakhiev/sokmesakhiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
